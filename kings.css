@@ -6,6 +6,9 @@ h1 {
   font-size: 50;
   font-family: Arial, Helvetica, sans-serif;
 }
+img{
+	  border: 5px solid #555;
+}
 p {
   color: purple;
 }
