@@ -1,8 +1,9 @@
 body {
-  background-color: powderblue;
+  background-color: lavender;
 }
 h1 {
-  color: blue;
+  color: purple;
+  font-size: 50;
 }
 p {
   color: red;
